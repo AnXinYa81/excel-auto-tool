@@ -1,0 +1,21 @@
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+*.iml
+
+# 输出产物，不要把生成的excel图表提交到仓库
+data/output/*
+!data/output/.gitkeep
+
+# 测试临时文件
+test*.xlsx
+*.log
