@@ -15,6 +15,16 @@ excel_auto
 ├── run_all.py # 一键执行完整流水线
 └── requirements.txt
 
+## 📸 运行截图
+
+### 待分析表
+![待分析表](./screenshots/result.png)
+
+### 分析过程
+![待分析表](./screenshots/operation1.png)
+
+### 分析结果
+![待分析表](./screenshots/result3.png)
 
 ## 🛠技术栈
 - Python3.10
