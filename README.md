@@ -21,10 +21,10 @@ excel_auto
 ![待分析表](./screenshots/result.png)
 
 ### 分析过程
-![待分析表](./screenshots/operation1.png)
+![分析过程](./screenshots/operation1.png)
 
 ### 分析结果
-![待分析表](./screenshots/result3.png)
+![分析结果](./screenshots/result3.png)
 
 ## 🛠技术栈
 - Python3.10
